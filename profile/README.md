@@ -26,3 +26,6 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 - ⚠️ No avanzar hasta que los integrantes del proyecto hayan ingresado a la plataforma y actualicen su estado en la parte superior a ✅.
 
 Pdt.  [aquí](https://github.com/AlianzaPorBolivia/criptomonedas.com.bo/wiki/Proyecto) dejo el link al proyecto para que entre todos hagamos un buen documento.
+
+
+![image](https://github.com/user-attachments/assets/5a0f76c5-28c2-479d-b2b0-993459dd6e45)
