@@ -6,4 +6,5 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 
 ## Proyectos
 
-- [asd](asd)
+- [criptomonedas.com.bo](https://criptomonedas.com.bo)
+- [entregas.com.bo](https://entregas.com.bo)
