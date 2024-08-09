@@ -14,7 +14,7 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 - ⭕ Nelson Artigas Jr 
 - ⭕ Analiz Mendoza
 - ⭕ Rafa Hurtado
-- ⭕ Leonel V
+- ✅ Leonel V
 - ⭕ Kevin
 - ⭕ Roberto Rivero
 - ⭕ xxx
