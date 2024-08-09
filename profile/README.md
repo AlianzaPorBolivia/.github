@@ -6,7 +6,22 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 
 ## Proyectos
 
-
-
 - [criptomonedas.com.bo](https://github.com/AlianzaPorBolivia/criptomonedas.com.bo/wiki)
 - [entregas.com.bo](https://github.com/AlianzaPorBolivia/entegas.com.bo/wiki)
+
+## Integrantes del proyecto
+
+- ⭕ Nelson Artigas Jr 
+- ⭕ Analiz Mendoza
+- ⭕ Rafa Hurtado
+- ⭕ Leonel V
+- ⭕ Kevin
+- ⭕ Roberto Rivero
+- ⭕ xxx
+- ✅ Ricardo Paz Demiquel 
+- ✅ Roy Ruddy Paz Demiquel
+
+## Estado del proyecto
+
+- ⚠️ No avanzar hasta que los integrantes del proyecto hayan ingresado a la plataforma y actualicen su estado en la parte superior a ✅.
+
