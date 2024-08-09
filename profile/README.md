@@ -6,5 +6,7 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 
 ## Proyectos
 
-- [criptomonedas.com.bo](../../criptomonedas.com.bo/wiki)
+
+
+- [criptomonedas.com.bo](https://github.com/AlianzaPorBolivia/criptomonedas.com.bo/wiki)
 - [entregas.com.bo](https://entregas.com.bo)
