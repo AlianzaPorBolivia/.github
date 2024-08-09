@@ -15,7 +15,7 @@ Aquí podremos encontrar todo lo referente a los proyectos que están por venir.
 - ⭕ Analiz Mendoza
 - ⭕ Rafa Hurtado
 - ✅ Leonel V
-- ⭕ Kevin
+- ✅ Kevin
 - ⭕ Roberto Rivero
 - ⭕ xxx
 - ✅ Ricardo Paz Demiquel 
